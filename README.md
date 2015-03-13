@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Project 1
 
@@ -93,3 +94,7 @@ to call based on the value of the "action" POST variable.
 #### Server Side (Back-end)
 
 Nothing as of right now - Would like to implement PHP libraries
+=======
+# bmx-e-commerce-site
+An e-commerce website created for Server Programming ISTE-341 at RIT. 
+>>>>>>> ca405512f68f81d38d755da40d02dc8f662bfb4f
