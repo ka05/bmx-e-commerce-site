@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 
-# Project 1
-
+# Project 1 - Server Programming ISTE - 341 @ RIT
+An e-commerce website created for Server Programming ISTE-341 at RIT. 
 ---
 
 
@@ -95,6 +94,3 @@ to call based on the value of the "action" POST variable.
 
 Nothing as of right now - Would like to implement PHP libraries
 =======
-# bmx-e-commerce-site
-An e-commerce website created for Server Programming ISTE-341 at RIT. 
->>>>>>> ca405512f68f81d38d755da40d02dc8f662bfb4f
